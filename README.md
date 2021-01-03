@@ -1,4 +1,4 @@
-# desafio_confitec_dotnet_angular
+# desafio_dotnet_angular
 Desafio proposto pela empresa confitec utilizando dotNetCore Api e Angular Framework
 
 # Versões
